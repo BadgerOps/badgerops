@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=badgerops&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=badgerops&theme=gruvbox)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badgerops&layout=donut-vertical)](https://github.com/badgerops/github-readme-stats)
 
 <!--
 **BadgerOps/badgerops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
