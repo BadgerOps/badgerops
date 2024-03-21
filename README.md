@@ -2,7 +2,13 @@
 
 feel free to hit me up on twitter [@badgerops](https://twitter.com/badgerops) or mastodon.social/@badgerops
 
+
+#### Fun language stats:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badgerops&layout=compact&theme=gruvbox)
+
+
+#### And overall github stats, how does the calcuation work 🤔
 
 ![](https://github-readme-stats.vercel.app/api?username=badgerops&theme=gruvbox)
 
