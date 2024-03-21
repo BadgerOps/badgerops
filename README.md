@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Testing out this shiny new readme feature...
+feel free to hit me up on twitter [@badgerops](https://twitter.com/badgerops) or mastodon.social/@badgerops
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badgerops&layout=compact&theme=gruvbox)
 
