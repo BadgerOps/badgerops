@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-feel free to hit me up on twitter [@badgerops](https://twitter.com/badgerops) or mastodon.social/@badgerops
+feel free to hit me up on twitter [@badgerops](https://twitter.com/badgerops) or [mastodon.social/@badgerops](https://mastodon.social/@badgerops)
 
+
+<!--
+meh, not sure how I feel about this...
 
 #### Fun language stats:
 
@@ -12,7 +15,7 @@ feel free to hit me up on twitter [@badgerops](https://twitter.com/badgerops) or
 
 ![](https://github-readme-stats.vercel.app/api?username=badgerops&theme=gruvbox)
 
-
+-->
 
 <!--
 **BadgerOps/badgerops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
