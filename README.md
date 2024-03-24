@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-feel free to hit me up on twitter [@badgerops](https://twitter.com/badgerops) or [mastodon.social/@badgerops](https://mastodon.social/@badgerops)
+Here's a bunch of random repos that have built up over time. Some are useful, some I just can't bring myself to delete.
+
+I hope something here is helpful, feel free to hit me up on twitter [@badgerops](https://twitter.com/badgerops) or [mastodon.social/@badgerops](https://mastodon.social/@badgerops) if you have any questions/comments.
+
+-BadgerOps
 
 
 <!--
