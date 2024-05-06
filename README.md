@@ -1,20 +1,22 @@
 ### Hi there 👋
 
-Here's a bunch of random repos that have built up over time. Some are useful, some I just can't bring myself to delete.
+I've been a Linux Sysadmin, SRE, DevOp & slinger of YAML over the years. Herein lies an assortment of projects, scripts and programs that have helped me over the years. I hope something here is helpful for _you_.
 
-I hope something here is helpful, feel free to hit me up on twitter [@badgerops](https://twitter.com/badgerops) or [mastodon.social/@badgerops](https://mastodon.social/@badgerops) if you have any questions/comments.
+[blog.badgerops.net](https://blog.badgerops.net)
 
--BadgerOps
+[mastodon.social/@badgerops](https://mastodon.social/@badgerops)
+
+[@badgerops](https://twitter.com/badgerops)
 
 
 <!--
 meh, not sure how I feel about this...
-
-#### Fun language stats:
+-->
+#### Language stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badgerops&layout=compact&theme=gruvbox)
 
-
+<!--
 #### And overall github stats, how does the calcuation work 🤔
 
 ![](https://github-readme-stats.vercel.app/api?username=badgerops&theme=gruvbox)
