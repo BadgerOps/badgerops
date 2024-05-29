@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've been a Linux Sysadmin, SRE, DevOp & slinger of YAML over the years. Herein lies an assortment of projects, scripts and programs that have helped me over the years. I hope something here is helpful for _you_.
+I've been a Linux Sysadmin, SRE, DevOp & slinger of Python, Bash, YAML and more over the years. Herein lies an assortment of projects, scripts and programs that have helped me over the years. I hope something here is helpful for _you_.
 
 [blog.badgerops.net](https://blog.badgerops.net)
 
