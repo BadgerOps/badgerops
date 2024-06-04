@@ -2,12 +2,18 @@
 
 I've been a Linux Sysadmin, SRE, DevOp & slinger of Python, Bash, YAML and more over the years. Herein lies an assortment of projects, scripts and programs that have helped me over the years. I hope something here is helpful for _you_.
 
+- 📫 How to reach me:
+
 [blog.badgerops.net](https://blog.badgerops.net)
 
 [mastodon.social/@badgerops](https://mastodon.social/@badgerops)
 
 [@badgerops](https://twitter.com/badgerops)
 
+- 💬 Ask me about
+- Metrics
+- Logs
+- Bacon
 
 <!--
 meh, not sure how I feel about this...
