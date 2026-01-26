@@ -7,6 +7,20 @@ I'm an SRE & Platform Engineer with roots in Linux system administration. I buil
 - 🔧 Infrastructure automation and multi-cloud tooling
 - 🦀 Learning Rust on the side
 
+#### Security Research
+
+Discovered hardcoded secrets vulnerabilities in Red Hat's Mirror Registry, resulting in 4 CVEs:
+- [CVE-2024-3622](https://nvd.nist.gov/vuln/detail/CVE-2024-3622) — Plaintext CSRF secret key
+- [CVE-2024-3623](https://nvd.nist.gov/vuln/detail/CVE-2024-3623) — Default database secret key in plain-text
+
+Read more: [CVE disclosure process writeup](https://blog.badgerops.net/cves/)
+
+#### Upstream Contributions
+
+- **[quay/mirror-registry](https://github.com/quay/mirror-registry)** — 4 merged PRs fixing secrets handling and security issues
+- **[keycloak/keycloak](https://github.com/keycloak/keycloak)** — Operator documentation and TLS configuration fixes
+- **[openshift/oc-mirror](https://github.com/openshift/oc-mirror)** — Code cleanup contributions
+
 #### Ask me about
 - Observability (metrics, logs, traces)
 - Salt, Ansible, and configuration management at scale
