@@ -4,8 +4,15 @@ I'm an SRE & Platform Engineer with roots in Linux system administration. I buil
 
 #### Currently working on
 - 🌐 [CloudPAM](https://github.com/BadgerOps/cloudpam) — A lightweight, cloud-native IP Address Management solution for AWS/GCP (Go + Alpine.js)
+- 🧠 [network-trainer](https://github.com/BadgerOps/network-trainer) — Network training tool (JavaScript)
 - 🔧 Infrastructure automation and multi-cloud tooling
 - 🦀 Learning Rust on the side
+
+#### Popular & Featured Projects
+- ⭐ [salt-workspace](https://github.com/BadgerOps/salt-workspace) — Salt configuration management workspace (16 stars)
+- 📦 [epel-offline-sync](https://github.com/BadgerOps/epel-offline-sync) — Sync EPEL repos for disconnected environments (Python)
+- 🔄 [ocpsync](https://github.com/BadgerOps/ocpsync) — Sync artifacts for OpenShift in air-gapped environments (Go)
+- 🎤 [bsides-if-2022](https://github.com/BadgerOps/bsides-if-2022) — BSides Idaho Falls 2022 conference talk materials
 
 #### Security Research
 
