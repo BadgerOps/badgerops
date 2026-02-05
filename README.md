@@ -19,6 +19,8 @@ I'm an SRE & Platform Engineer with roots in Linux system administration. I buil
 Discovered hardcoded secrets vulnerabilities in Red Hat's Mirror Registry, resulting in 4 CVEs:
 - [CVE-2024-3622](https://nvd.nist.gov/vuln/detail/CVE-2024-3622) — Plaintext CSRF secret key
 - [CVE-2024-3623](https://nvd.nist.gov/vuln/detail/CVE-2024-3623) — Default database secret key in plain-text
+- [CVE-2024-3624](https://nvd.nist.gov/vuln/detail/CVE-2024-3624) — Database user and password stored in plain-text
+- [CVE-2024-3625](https://nvd.nist.gov/vuln/detail/CVE-2024-3625) — Redis password stored in plain-text
 
 Read more: [CVE disclosure process writeup](https://blog.badgerops.net/cves/)
 
@@ -39,6 +41,14 @@ Read more: [CVE disclosure process writeup](https://blog.badgerops.net/cves/)
 - 🐘 [mastodon.social/@badgerops](https://mastodon.social/@badgerops)
 - 🐦 [@badgerops](https://twitter.com/badgerops)
 
-#### Language stats
+#### Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badgerops&layout=compact&theme=gruvbox)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=red-hat-open-shift&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
