@@ -3,9 +3,9 @@
 I'm an SRE & Platform Engineer with roots in Linux system administration. I build tools in **Go**, **Python**, and **Bash** to solve infrastructure problems — from cloud-native IPAM to disconnected environment tooling.
 
 #### Currently working on
+- 🕸️ [grapheon](https://github.com/BadgerOps/grapheon) — Network intelligence platform that aggregates scan data (nmap, netstat, arp) into graph visualizations (Python/FastAPI + React)
 - 🌐 [CloudPAM](https://github.com/BadgerOps/cloudpam) — A lightweight, cloud-native IP Address Management solution for AWS/GCP (Go + Alpine.js)
-- 🧠 [network-trainer](https://github.com/BadgerOps/network-trainer) — Network training tool (JavaScript)
-- 🔧 Infrastructure automation and multi-cloud tooling
+- 📋 [WOTSapp](https://github.com/BadgerOps/WOTSapp) — Military training communication platform for instructors and students (React + Firebase)
 - 🦀 Learning Rust on the side
 
 #### Popular & Featured Projects
