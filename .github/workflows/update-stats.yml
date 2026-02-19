@@ -1,0 +1,47 @@
+name: Update GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Every Monday at 6:00 AM UTC
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create stats directory
+        run: mkdir -p stats
+
+      - name: Fetch GitHub Stats Card
+        run: |
+          curl -s -o stats/github-stats.svg \
+            "https://github-readme-stats.vercel.app/api?username=BadgerOps&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
+
+      - name: Fetch Top Languages Card
+        run: |
+          curl -s -o stats/top-langs.svg \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=BadgerOps&layout=compact&theme=transparent&hide_border=true&langs_count=10"
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add stats/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update github stats cards [skip ci]"
+          git push
