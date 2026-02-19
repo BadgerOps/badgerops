@@ -48,7 +48,7 @@ Read more: [CVE disclosure process writeup](https://blog.badgerops.net/cves/)
   <img src="stats/top-langs.svg" alt="Top Languages" />
 </p>
 
-> Stats are refreshed weekly via [GitHub Actions](.github/workflows/update-stats.yml) using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+> Stats are refreshed weekly via [GitHub Actions](.github/workflows/update-stats.yml) using [lowlighter/metrics](https://github.com/lowlighter/metrics).
 
 #### Tech Stack
 
