@@ -41,6 +41,15 @@ Read more: [CVE disclosure process writeup](https://blog.badgerops.net/cves/)
 - 🐘 [mastodon.social/@badgerops](https://mastodon.social/@badgerops)
 - 🐦 [@badgerops](https://twitter.com/badgerops)
 
+#### GitHub Stats
+
+<p>
+  <img src="stats/github-stats.svg" alt="GitHub Stats" />
+  <img src="stats/top-langs.svg" alt="Top Languages" />
+</p>
+
+> Stats are refreshed weekly via [GitHub Actions](.github/workflows/update-stats.yml) using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+
 #### Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
