@@ -6,7 +6,6 @@ I'm an SRE & Platform Engineer with roots in Linux system administration. I buil
 - 🕸️ [grapheon](https://github.com/BadgerOps/grapheon) — Network intelligence platform that aggregates scan data (nmap, netstat, arp) into graph visualizations (Python/FastAPI + React)
 - 🌐 [CloudPAM](https://github.com/BadgerOps/cloudpam) — A lightweight, cloud-native IP Address Management solution for AWS/GCP (Go + Alpine.js)
 - 📋 [WOTSapp](https://github.com/BadgerOps/WOTSapp) — Military training communication platform for instructors and students (React + Firebase)
-- 🦀 Learning Rust on the side
 
 #### Popular & Featured Projects
 - ⭐ [salt-workspace](https://github.com/BadgerOps/salt-workspace) — Salt configuration management workspace (16 stars)
