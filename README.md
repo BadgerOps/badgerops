@@ -3,14 +3,17 @@
 I'm an SRE & Platform Engineer with roots in Linux system administration. I build tools in **Go**, **Python**, and **Bash** to solve infrastructure problems — from cloud-native IPAM to disconnected environment tooling.
 
 #### Currently working on
+- 🛩️ [airgap](https://github.com/BadgerOps/airgap) — CLI tool for syncing, exporting, and importing content for air-gapped OpenShift environments (Go)
+- 🌐 [CloudPAM](https://github.com/BadgerOps/cloudpam) — A lightweight, cloud-native IP Address Management solution for AWS/GCP (Go + TypeScript)
 - 🕸️ [grapheon](https://github.com/BadgerOps/grapheon) — Network intelligence platform that aggregates scan data (nmap, netstat, arp) into graph visualizations (Python/FastAPI + React)
-- 🌐 [CloudPAM](https://github.com/BadgerOps/cloudpam) — A lightweight, cloud-native IP Address Management solution for AWS/GCP (Go + Alpine.js)
 - 📋 [WOTSapp](https://github.com/BadgerOps/WOTSapp) — Military training communication platform for instructors and students (React + Firebase)
+- 🖧 [network-trainer](https://github.com/BadgerOps/network-trainer) — Interactive network topology training tool (JavaScript)
 
 #### Popular & Featured Projects
 - ⭐ [salt-workspace](https://github.com/BadgerOps/salt-workspace) — Salt configuration management workspace (16 stars)
 - 📦 [epel-offline-sync](https://github.com/BadgerOps/epel-offline-sync) — Sync EPEL repos for disconnected environments (Python)
 - 🔄 [ocpsync](https://github.com/BadgerOps/ocpsync) — Sync artifacts for OpenShift in air-gapped environments (Go)
+- 📥 [dlserver](https://github.com/BadgerOps/dlserver) — Download server written in Go
 - 🎤 [bsides-if-2022](https://github.com/BadgerOps/bsides-if-2022) — BSides Idaho Falls 2022 conference talk materials
 
 #### Security Research
@@ -28,6 +31,13 @@ Read more: [CVE disclosure process writeup](https://blog.badgerops.net/cves/)
 - **[quay/mirror-registry](https://github.com/quay/mirror-registry)** — 4 merged PRs fixing secrets handling and security issues
 - **[keycloak/keycloak](https://github.com/keycloak/keycloak)** — Operator documentation and TLS configuration fixes
 - **[openshift/oc-mirror](https://github.com/openshift/oc-mirror)** — Code cleanup contributions
+
+#### Recent Activity
+- **[airgap](https://github.com/BadgerOps/airgap)** — Multi-arch container images, CI release pipeline, binary publishing, changelog-driven releases
+- **[CloudPAM](https://github.com/BadgerOps/cloudpam)** — SSO/OIDC provider integration, auth hardening, soft-deletes, SQLite connection pooling, Chainguard containers
+- **[grapheon](https://github.com/BadgerOps/grapheon)** — Live system status indicators, fcose layout tuning, demo mode access controls, semver release checker
+- **[network-trainer](https://github.com/BadgerOps/network-trainer)** — UI connection polish, Cloudflare Pages deployment, OpenTofu infrastructure
+- **[WOTSapp](https://github.com/BadgerOps/WOTSapp)** — Active development on instructor/student training workflows
 
 #### Ask me about
 - Observability (metrics, logs, traces)
@@ -47,14 +57,13 @@ Read more: [CVE disclosure process writeup](https://blog.badgerops.net/cves/)
   <img src="stats/top-langs.svg" alt="Top Languages" />
 </p>
 
-> Stats are refreshed weekly via [GitHub Actions](.github/workflows/update-stats.yml) using [lowlighter/metrics](https://github.com/lowlighter/metrics).
+> Stats are refreshed weekly via [GitHub Actions](.github/workflows/update-stats.yml) using [lowlighter/metrics](https://github.com/lowlighter/metrics). Languages are measured by lines of code.
 
 #### Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=red-hat-open-shift&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
