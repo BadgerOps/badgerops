@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I'm an SRE & Platform Engineer with roots in Linux system administration. I build tools in **Go**, **Python**, and **Bash** to solve infrastructure problems — from cloud-native IPAM to disconnected environment tooling.
+I'm an SRE & Platform Engineer with roots in Linux system administration. I build tools in **Go**, **Python**, **TypeScript**, and **Bash** to solve infrastructure problems — from infrastructure providers and network intelligence to secure, cloud-native applications.
 
 #### Currently working on
-- 🛩️ [airgap](https://github.com/BadgerOps/airgap) — CLI tool for syncing, exporting, and importing content for air-gapped OpenShift environments (Go)
+- 🛜 [terraform-provider-unifi](https://github.com/BadgerOps/terraform-provider-unifi) — Terraform provider for UniFi Network using the official Integration API (Go)
+- 🧳 [travel-hq](https://github.com/BadgerOps/travel-hq) — Trips-first family travel dashboard running on Cloudflare Workers, D1, and Workers AI (TypeScript)
 - 🌐 [CloudPAM](https://github.com/BadgerOps/cloudpam) — A lightweight, cloud-native IP Address Management solution for AWS/GCP (Go + TypeScript)
 - 🕸️ [grapheon](https://github.com/BadgerOps/grapheon) — Network intelligence platform that aggregates scan data (nmap, netstat, arp) into graph visualizations (Python/FastAPI + React)
-- 📋 [WOTSapp](https://github.com/BadgerOps/WOTSapp) — Military training communication platform for instructors and students (React + Firebase)
-- 🖧 [network-trainer](https://github.com/BadgerOps/network-trainer) — Interactive network topology training tool (JavaScript)
 
 #### Popular & Featured Projects
 - ⭐ [salt-workspace](https://github.com/BadgerOps/salt-workspace) — Salt configuration management workspace (16 stars)
@@ -32,12 +31,15 @@ Read more: [CVE disclosure process writeup](https://blog.badgerops.net/cves/)
 - **[keycloak/keycloak](https://github.com/keycloak/keycloak)** — Operator documentation and TLS configuration fixes
 - **[openshift/oc-mirror](https://github.com/openshift/oc-mirror)** — Code cleanup contributions
 
-#### Recent Activity
-- **[airgap](https://github.com/BadgerOps/airgap)** — Multi-arch container images, CI release pipeline, binary publishing, changelog-driven releases
-- **[CloudPAM](https://github.com/BadgerOps/cloudpam)** — SSO/OIDC provider integration, auth hardening, soft-deletes, SQLite connection pooling, Chainguard containers
-- **[grapheon](https://github.com/BadgerOps/grapheon)** — Live system status indicators, fcose layout tuning, demo mode access controls, semver release checker
-- **[network-trainer](https://github.com/BadgerOps/network-trainer)** — UI connection polish, Cloudflare Pages deployment, OpenTofu infrastructure
-- **[WOTSapp](https://github.com/BadgerOps/WOTSapp)** — Active development on instructor/student training workflows
+#### Last 180 Days
+
+From May 1 through October 28, 2026: **281 commits** across seven public repositories, **123 pull requests**, **53 issues**, and **6 code reviews**, plus **34 private contributions**.
+
+- **[travel-hq](https://github.com/BadgerOps/travel-hq)** — 139 commits and 53 PRs building secure email, calendar, PDF, and on-device document ingestion; a mobile PWA; push notifications; trip collaboration; and production observability on Cloudflare
+- **[terraform-provider-unifi](https://github.com/BadgerOps/terraform-provider-unifi)** — 58 commits and 10 PRs expanding UniFi resources, updating the OpenAPI snapshot, fixing configuration drift, adding plan-time validation, and hardening contribution and release workflows
+- **[CloudPAM](https://github.com/BadgerOps/cloudpam)** — 52 commits and 50 PRs spanning discovery and import workflows, a Terraform provider, OpenTelemetry tracing, responsive UI work, security fixes, and an increase in Go test coverage to 85%
+- **[grapheon](https://github.com/BadgerOps/grapheon)** — 26 commits and 9 PRs delivering passive-agent lifecycle management, topology evidence and provenance, on-demand collection, and map-layer improvements
+- **Maintenance and learning** — dependency and security updates for [network-trainer](https://github.com/BadgerOps/network-trainer), ongoing [Rust exercises](https://github.com/BadgerOps/rust-learning), and a [salt-workspace](https://github.com/BadgerOps/salt-workspace) update
 
 #### Ask me about
 - Observability (metrics, logs, traces)
